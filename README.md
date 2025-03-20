@@ -19,3 +19,6 @@ This repository contains a **C++ object-oriented software system** designed for 
 - **Course:** CS1002 - Programming Fundamentals  
 - **University:** FAST-NU Lahore  
 - **Submission Deadline:** March 28, 2025
+
+<br><br>
+<h6><p align="center">copyrights © 2025 MUHAMMAD WALEED | All rights reserved </h6> </p>
