@@ -9,9 +9,7 @@ protected:
     double price, engineSize;
 
 public:
-    Car(string m, int y, double p, double e, string t, string c)
-        : model(m), manufactureYear(y), price(p), engineSize(e), transmission(t), chassisNumber(c) {
-    }
+    Car(string m, int y, double p, double e, string t, string c);
     virtual void display() {
         cout << "Model: " << model << " | Year: " << manufactureYear << " | Price: " << price
             << " | Engine: " << engineSize << "L | Transmission: " << transmission << endl;
@@ -20,6 +18,14 @@ public:
     string getModel() { return model; }
 };
 
+Car::Car(string m, int y, double p, double e, string t, string c) {
+    model = m;
+    manufactureYear = y;
+    price = p;
+    engineSize = e;
+    transmission = t;
+    chassisNumber = c;
+}
 // Derived class for Used Car
 class UsedCar : public Car {
     string registrationNumber;
