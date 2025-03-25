@@ -12,6 +12,7 @@ This repository contains a **C++ object-oriented software system** designed for 
 
 ## 🛠️ Technologies Used:  
 - **C++ (OOP concepts)**
+- |-> Composition, Inheritence, Encapsulation
 - File handling for data storage
 - Console-based user interface
 
