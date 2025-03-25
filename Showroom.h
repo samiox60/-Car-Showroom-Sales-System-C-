@@ -31,6 +31,7 @@ ShowRoom::ShowRoom(string name, string address, int contact, string email, int s
 	contact_number = contact;
 	email = email;
 	sales_tax_registration_number = sale_tax;
+
 }
 
 #endif 
